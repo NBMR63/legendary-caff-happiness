@@ -11,3 +11,7 @@ var myVar = "Hellow World!"
 ```
 
 [This is a ling to the outside.com](http://www.outside.com)
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
